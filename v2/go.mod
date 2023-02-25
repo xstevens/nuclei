@@ -13,7 +13,6 @@ require (
 	github.com/bluele/gcache v0.0.2
 	github.com/c4milo/unpackit v0.1.0 // indirect
 	github.com/corpix/uarand v0.1.1
-	github.com/davecgh/go-spew v1.1.1
 	github.com/go-rod/rod v0.91.1
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/gosuri/uilive v0.0.4 // indirect
@@ -60,7 +59,7 @@ require (
 	go.uber.org/ratelimit v0.2.0
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
 	golang.org/x/oauth2 v0.0.0-20210817223510-7df4dd6e12ab
-	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
