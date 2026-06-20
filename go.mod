@@ -122,7 +122,7 @@ require (
 	github.com/yassinebenaid/godump v0.11.1
 	github.com/zmap/zgrab2 v0.1.8
 	gitlab.com/gitlab-org/api/client-go v0.130.1
-	go.mongodb.org/mongo-driver v1.17.4
+	go.mongodb.org/mongo-driver v1.17.7
 	golang.org/x/term v0.36.0
 	gopkg.in/yaml.v3 v3.0.1
 	moul.io/http2curl v1.0.0
